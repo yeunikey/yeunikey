@@ -21,7 +21,7 @@
   <b>Astana IT University</b>
 </p>
 
-<hr>
+<h2></h2>
 
 <h3 align="center">
   My stack 
