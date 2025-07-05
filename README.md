@@ -8,7 +8,7 @@
   Welcome to my page!
   <br>
   I'm <b>fullstack developer</b> from 
-  &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Kazakhstan.png/1200px-Flag_of_Kazakhstan.png" height="15px" width="auto"/> &nbsp; <!-- icon --> 
+  &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Kazakhstan.png/1200px-Flag_of_Kazakhstan.png" height="15px" width="auto" style="height: 15px; width: auto;"/> &nbsp; <!-- icon --> 
   <b>Kazakhstan, Astana</b>
 </p>
 
@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg"/> &nbsp; <!-- icon --> 
   Currently studying at
-  &nbsp; <img src="https://moodle.astanait.edu.kz/pluginfile.php/1/core_admin/logocompact/300x300/1677736259/logo%20AITU%28imageonly%29.png" height="20px" width="auto"/> &nbsp; <!-- icon --> 
+  &nbsp; <img src="https://moodle.astanait.edu.kz/pluginfile.php/1/core_admin/logocompact/300x300/1677736259/logo%20AITU%28imageonly%29.png" height="20px" width="auto" style="height: 20px; width: auto;"/> &nbsp; <!-- icon --> 
   <b>Astana IT University</b>
 </p>
 
